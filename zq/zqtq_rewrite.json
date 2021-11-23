@@ -38,7 +38,7 @@
     {
       "match": "https://kandian.wkandian.com/v5/CommonReward/toGetReward.json",
       "target": "https://ghproxy.com/https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/zq/zqbox.js",
-      "enable": flase
+      "enable": true
     }
      ,
     {
